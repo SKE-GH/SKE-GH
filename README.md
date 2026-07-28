@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, ich bin Stephan.
 
-<!--
-**SKE-GH/SKE-GH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seit Februar 2026 befinde ich mich in einer Umschulung zum Fachinformatiker für Anwendungsentwicklung.
+Ich nutze GitHub, um meinen Lernweg zu dokumentieren und meine Projekte zu teilen.
 
-Here are some ideas to get you started:
+##  Mein Fokus
+*    **Python:** Fundierte Kenntnisse, [seit 07/2026]PCAP – Certified Associate Python Programmer.
+*    **C# / .NET:** Aktuell im Endspurt der *FreeFoundational C# Certification* von Microsoft & freeCodeCamp.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Zertifikate & Qualifikationen
+*   **PCAP – Certified Associate in Python Programming** (Bestanden)
+*   **Foundational C# with Microsoft** (In Arbeit – siehe Repo `learning-csharp-microsoft`)
+
+Ich bin aktuell auf der Suche nach einem **Pflichtpraktikumsplatz** in Hamburg ab Juni 2027!
