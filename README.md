@@ -8,7 +8,8 @@ Ich nutze GitHub, um meinen Lernweg zu dokumentieren und meine Projekte zu teile
 *    **C# / .NET:** Aktuell im Endspurt der *FreeFoundational C# Certification* von Microsoft & freeCodeCamp.
 
 ##  Zertifikate & Qualifikationen
-*   **PCAP – Certified Associate in Python Programming** (Bestanden)
+*   **PCAP – Certified Associate in Python Programming**
+*   **Microsoft Certified: Azure AI Fundamentals**
 *   **Foundational C# with Microsoft** (In Arbeit – siehe Repo `learning-csharp-microsoft`)
 
 Ich bin aktuell auf der Suche nach einem **Pflichtpraktikumsplatz** in Hamburg ab Juni 2027!
