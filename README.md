@@ -10,6 +10,6 @@ Ich nutze GitHub, um meinen Lernweg zu dokumentieren und meine Projekte zu teile
 ##  Zertifikate & Qualifikationen
 *   **PCAP – Certified Associate in Python Programming**
 *   **Microsoft Certified: Azure AI Fundamentals**
-*   **Foundational C# with Microsoft** (In Arbeit – siehe Repo `learning-csharp-microsoft`)
+*   **Foundational C# with Microsoft**
 
 Ich bin aktuell auf der Suche nach einem **Pflichtpraktikumsplatz** in Hamburg ab Juni 2027!
