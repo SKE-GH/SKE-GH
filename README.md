@@ -5,7 +5,7 @@ Ich nutze GitHub, um meinen Lernweg zu dokumentieren und meine Projekte zu teile
 
 ##  Mein Fokus
 *    **Python:** Fundierte Kenntnisse, [seit 07/2026]PCAP – Certified Associate Python Programmer.
-*    **C# / .NET:** Aktuell im Endspurt der *FreeFoundational C# Certification* von Microsoft & freeCodeCamp.
+*    **C# / .NET:** *FreeFoundational C# Certification* [seit 11/2026]von Microsoft & freeCodeCamp.
 
 ##  Zertifikate & Qualifikationen
 *   **PCAP – Certified Associate in Python Programming**
